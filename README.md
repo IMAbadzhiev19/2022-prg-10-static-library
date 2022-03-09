@@ -1,0 +1,1 @@
+# 2022-prg-10-static-library
