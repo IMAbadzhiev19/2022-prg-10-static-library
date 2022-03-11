@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4f69c184-8165-439d-a32c-6e495c52bcef}</ProjectGuid>
+    <ProjectGuid>{115af780-0538-4c85-81a9-a1fe34eb5274}</ProjectGuid>
     <RootNamespace>StudentWork</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -144,7 +144,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MathLibrary\MathLibrary.vcxproj">
-      <Project>{c3be8bd5-a2ea-4938-87a4-8080e17a95f1}</Project>
+      <Project>{0fdda75d-dcae-4774-a886-158e227728db}</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
